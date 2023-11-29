@@ -8,7 +8,7 @@ I've been learning to code for 4 years, after switching careers. I started with 
 
 * 🌍  I'm based in Tehran
 * ✉️  You can contact me at [Naderbeigiamirhosein@gmail.com](mailto:Naderbeigiamirhosein@gmail.com)
-* 🚀  I'm currently working on [Saman Salamat](http://samansalamat.com/)
+* 🚀  I'm currently working on [Saman Salamat Pajouh](http://samansalamat.com/)
 * 🧠  I'm learning Quasar
 
 ### Skills
